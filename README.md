@@ -5,7 +5,7 @@ Checks if package is installed and if yes - returns package version.
 ## How to use
 
 ```
-const checkPackages = require('get-instgalled-package-version')
+const checkPackages = require('get-installed-package-version')
 
 const versions = checkPackage('nuxt fs');
 
